@@ -1,0 +1,13 @@
+C:\Users\Alperen\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\Alperen\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\Alperen\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\Alperen\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\Alperen\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Alperen\source\repos\Kampintro\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\Alperen\source\repos\Kampintro\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

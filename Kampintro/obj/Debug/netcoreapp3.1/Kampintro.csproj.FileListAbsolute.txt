@@ -1,0 +1,13 @@
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\bin\Debug\netcoreapp3.1\Kampintro.exe
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\bin\Debug\netcoreapp3.1\Kampintro.deps.json
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\bin\Debug\netcoreapp3.1\Kampintro.runtimeconfig.json
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\bin\Debug\netcoreapp3.1\Kampintro.runtimeconfig.dev.json
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\bin\Debug\netcoreapp3.1\Kampintro.dll
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\bin\Debug\netcoreapp3.1\Kampintro.pdb
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.csprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.AssemblyInfoInputs.cache
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.AssemblyInfo.cs
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.dll
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.pdb
+C:\Users\Alperen\source\repos\Kampintro\Kampintro\obj\Debug\netcoreapp3.1\Kampintro.genruntimeconfig.cache
