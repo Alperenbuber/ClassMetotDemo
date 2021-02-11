@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alperen\\source\\repos\\Kampintro\\MyDictionary\\MyDictionary.csproj": {}
+    "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\MyDictionary\\MyDictionary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alperen\\source\\repos\\Kampintro\\MyDictionary\\MyDictionary.csproj": {
+    "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\MyDictionary\\MyDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\MyDictionary\\MyDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\MyDictionary\\MyDictionary.csproj",
         "projectName": "MyDictionary",
-        "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\MyDictionary\\MyDictionary.csproj",
+        "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\MyDictionary\\MyDictionary.csproj",
         "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\MyDictionary\\obj\\",
+        "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\MyDictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3GWcvV6rcTZ4LMfsyilzOII43V/ebK/OOK5SfDyNW32ad3BzO4m48FJ+frDNLzEJzm9b57IYVc5nPuF4hmU/Q==",
+  "dgSpecHash": "YIeucRh7feoznKd4HDSpADJgXcFAULR5Qc+2xeFiBZBm9dqLjEPKdm4/ptMwDgh+w+UHKaXjZVqOibl0u84jAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

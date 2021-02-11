@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Classintro\\Classintro.csproj",
+      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Classintro\\Classintro.csproj",
       "projectName": "Classintro",
-      "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Classintro\\Classintro.csproj",
+      "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Classintro\\Classintro.csproj",
       "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Classintro\\obj\\",
+      "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Classintro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",

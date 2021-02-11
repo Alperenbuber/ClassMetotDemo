@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Metotlar\\Metotlar.csproj",
+      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Metotlar\\Metotlar.csproj",
       "projectName": "Metotlar",
-      "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Metotlar\\Metotlar.csproj",
+      "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Metotlar\\Metotlar.csproj",
       "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Metotlar\\obj\\",
+      "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Metotlar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",

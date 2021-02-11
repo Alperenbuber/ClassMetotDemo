@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Koleksiyonlar\\Koleksiyonlar.csproj",
+      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Koleksiyonlar\\Koleksiyonlar.csproj",
       "projectName": "Koleksiyonlar",
-      "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Koleksiyonlar\\Koleksiyonlar.csproj",
+      "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Koleksiyonlar\\Koleksiyonlar.csproj",
       "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Koleksiyonlar\\obj\\",
+      "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Koleksiyonlar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",

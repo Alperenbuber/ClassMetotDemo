@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "projectName": "DegerVeReferansTipler",
-      "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
       "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\DegerVeReferansTipler\\obj\\",
+      "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\DegerVeReferansTipler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",

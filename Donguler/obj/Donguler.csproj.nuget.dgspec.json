@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Donguler\\Donguler.csproj": {}
+    "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Donguler\\Donguler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Donguler\\Donguler.csproj": {
+    "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Donguler\\Donguler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Donguler\\Donguler.csproj",
+        "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Donguler\\Donguler.csproj",
         "projectName": "Donguler",
-        "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Donguler\\Donguler.csproj",
+        "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Donguler\\Donguler.csproj",
         "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Donguler\\obj\\",
+        "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Donguler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",

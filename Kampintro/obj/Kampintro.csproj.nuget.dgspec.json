@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Kampintro\\Kampintro.csproj": {}
+    "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Kampintro\\Kampintro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Kampintro\\Kampintro.csproj": {
+    "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Kampintro\\Kampintro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Kampintro\\Kampintro.csproj",
+        "projectUniqueName": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Kampintro\\Kampintro.csproj",
         "projectName": "Kampintro",
-        "projectPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Kampintro\\Kampintro.csproj",
+        "projectPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Kampintro\\Kampintro.csproj",
         "packagesPath": "C:\\Users\\Alperen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alperen\\source\\repos\\Kampintro\\Kampintro\\obj\\",
+        "outputPath": "C:\\Users\\Alperen\\source\\repos\\ClassMetotDemo\\Kampintro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alperen\\AppData\\Roaming\\NuGet\\NuGet.Config",
