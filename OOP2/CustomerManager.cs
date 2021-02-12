@@ -9,16 +9,11 @@ namespace OOP2
     {
         public void Add(Musteri musteri)
         {
-            //if (musteri.)
-            //{
-
-            //} 
-
-
-
-
-
-
+            Console.WriteLine("Müşterimiz başarıyla eklenmiştir: "  +  musteri.MusteriNo);
         }  
+        public void Uptaded(GercekMusteri musteri)
+        {
+            Console.WriteLine("Gerçek müşterimiz başarıyla güncellenmiştir."+ musteri.Adi);
+        }
     }
 }

@@ -31,7 +31,9 @@ namespace OOP2
             musteriManager.Add(musteri1);
             musteriManager.Add(musteri2);
 
-
+            CustomerManager musteriManager2 = new CustomerManager();
+            musteriManager2.Uptaded(musteri1);
+            
 
 
 
