@@ -9,7 +9,6 @@ namespace Interfaces
          string Id { get; set; }
          string Adı { get; set; }
 
-
         void Add();
         void BiseyYap();
         void Deleted();

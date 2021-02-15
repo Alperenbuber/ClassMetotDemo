@@ -29,7 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{948C730C-5979-4C10-9083-5BCBA44A4192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B765F35B-B027-4B62-9B7B-1BB5139D1ABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B765F35B-B027-4B62-9B7B-1BB5139D1ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{2ACD2266-5D83-48B5-B290-E9EAC984BCF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{5163FCC2-253D-4ABF-8877-0EA1AF03206D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{B765F35B-B027-4B62-9B7B-1BB5139D1ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B765F35B-B027-4B62-9B7B-1BB5139D1ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B765F35B-B027-4B62-9B7B-1BB5139D1ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACD2266-5D83-48B5-B290-E9EAC984BCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD2266-5D83-48B5-B290-E9EAC984BCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD2266-5D83-48B5-B290-E9EAC984BCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD2266-5D83-48B5-B290-E9EAC984BCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5163FCC2-253D-4ABF-8877-0EA1AF03206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5163FCC2-253D-4ABF-8877-0EA1AF03206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5163FCC2-253D-4ABF-8877-0EA1AF03206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5163FCC2-253D-4ABF-8877-0EA1AF03206D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
